@@ -3,18 +3,18 @@
 A simple C program that calculates student grades based on marks and provides statistics.
 
 ## Features
-- Enter student marks and get corresponding grades
-- View statistics: highest, lowest, and average scores
-- Simple command-line interface
+- Enter student marks and get corresponding grades.
+- View statistics: highest, lowest, and average scores.
+- Simple command-line interface.
 
 ## What I Learned
-I Learned about Struct in C and how to use them and How to Sort Data
+I Learned about Struct in C and how to use them and How to Sort Data.
 
 ## Technologies 
-Language : C and Its Libraries
+Language : C and Its Libraries.
 
 ## How to Compile
-Replace the name of your Compiler with gcc
+Replace the name of your Compiler with gcc.
 ```bash
 gcc GradeCalculator.c -o GradeCalculator
 ```
